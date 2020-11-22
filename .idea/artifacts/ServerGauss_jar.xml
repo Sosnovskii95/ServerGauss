@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ServerGauss:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ServerGauss_jar</output-path>
+    <root id="archive" name="ServerGauss.jar">
+      <element id="module-output" name="ServerGauss" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../MathParser.org-mXparser-4.4.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
